@@ -17,6 +17,6 @@ Sou apaixonada por design, astronomia e programação. Estou migrando para a ár
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lidiga&repo=devweek.github.io)](https://github.com/lidiga/devweek.github.io)
 
-## Contatos
+## Contato
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/liliankr/?locale=pt_BR)
